@@ -1,8 +1,6 @@
-# React + Vite
+# Corona Tracking 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project where we can see the rate of spread of the covid-19 virus, the number of people rescued and the number of deaths, the numerical situation in the countries, the total rates in the world, and the rates in the continents by using CollectAPI.
 
-Currently, two official plugins are available:
+![Yeni proje](https://github.com/furkan-can/Covid-Tracking/assets/79963893/e84938eb-b25e-4fa4-81a6-f918d03f6e48)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
